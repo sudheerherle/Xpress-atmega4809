@@ -19,11 +19,13 @@ int main(int argc, char** argv) {
     int e = 15;
     int f = 0;
     f = add(d,e);
+    while(true){
     f = f * 2;   
     for(int p=0;p<10;p++){
         f = f + 1;
     }
-    return (EXIT_SUCCESS);
+    // return (EXIT_SUCCESS);
+    }
 }
 
 int add(int a, int b){
