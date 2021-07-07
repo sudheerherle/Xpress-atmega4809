@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     int e = 15;
     int f = 0;
     f = add(d,e);
-    while(true){
+    while(1){
     f = f * 2;   
     for(int p=0;p<10;p++){
         f = f + 1;
