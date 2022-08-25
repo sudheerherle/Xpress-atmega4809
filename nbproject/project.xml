@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>Xpress-Atmega4809</name>
+            <name>Xpress-Atmega4809-Test</name>
             <creation-uuid>0fcbe1c7-487f-4194-b8f1-95a533a58719</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
